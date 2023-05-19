@@ -1,0 +1,97 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="example.com.finalyearproject"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:5:5-65
+11-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:5:22-62
+12
+13    <uses-feature android:name="android.hardware.camera" />
+13-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:7:5-60
+13-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:7:19-57
+14    <uses-feature android:name="android.hardware.camera.autofocus" />
+14-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:8:5-70
+14-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:8:19-67
+15
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:9:5-80
+16-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:9:22-77
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:10:5-81
+17-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:10:22-78
+18
+19    <application
+19-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:11:5-29:19
+20        android:allowBackup="true"
+20-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:12:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.8.0] C:\Users\Admin\.gradle\caches\transforms-3\28a1708219c3158e49b329d141e5cfff\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:icon="@mipmap/ic_launcher"
+23-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:13:9-43
+24        android:label="@string/app_name"
+24-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:14:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:15:9-54
+26        android:supportsRtl="true"
+26-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:16:9-35
+27        android:testOnly="true"
+28        android:theme="@style/AppTheme" >
+28-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:17:9-40
+29        <activity
+29-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:18:9-20:20
+30            android:name="example.com.finalyearproject.camera_tf.CameraActivity"
+30-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:18:19-87
+31            android:label="@string/app_name" >
+31-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:19:13-45
+32        </activity>
+33        <activity
+33-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:21:9-28:20
+34            android:name="example.com.finalyearproject.MainActivity"
+34-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:21:19-75
+35            android:exported="true" >
+35-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:22:13-36
+36            <intent-filter>
+36-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:23:13-27:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:24:17-69
+37-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:24:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:26:17-77
+39-->D:\Plant leaf disease detection\app\src\main\AndroidManifest.xml:26:27-74
+40            </intent-filter>
+41        </activity>
+42
+43        <provider
+43-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+44            android:name="androidx.startup.InitializationProvider"
+44-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+45            android:authorities="example.com.finalyearproject.androidx-startup"
+45-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+46            android:exported="false" >
+46-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+47            <meta-data
+47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+48                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+49                android:value="androidx.startup" />
+49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+50            <meta-data
+50-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Admin\.gradle\caches\transforms-3\e49fb580d7eda2494a8100e094041989\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+51                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+51-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Admin\.gradle\caches\transforms-3\e49fb580d7eda2494a8100e094041989\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+52                android:value="androidx.startup" />
+52-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Admin\.gradle\caches\transforms-3\e49fb580d7eda2494a8100e094041989\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+53        </provider>
+54    </application>
+55
+56</manifest>

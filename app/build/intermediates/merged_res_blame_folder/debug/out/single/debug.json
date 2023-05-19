@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\layout_fragment_camera2_basic.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\layout\\fragment_camera2_basic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\layout_measures_dialog.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\layout\\measures_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\drawable_bg_curved_grey_3.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\drawable\\bg_curved_grey_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\drawable_plus.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\drawable\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\drawable_rectangle_curved.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\drawable\\rectangle_curved.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\layout_details_dialog.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\layout\\details_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-pngs-26:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\drawable_ic_marker.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\drawable\\ic_marker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\drawable_cancel_bt.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\drawable\\cancel_bt.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\layout_delete_dialog.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\layout\\delete_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\drawable_ic_marker_inactive.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\drawable\\ic_marker_inactive.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\layout_item_timeline_line_padding.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\layout\\item_timeline_line_padding.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\drawable_ic_marker_active.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\drawable\\ic_marker_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\drawable_bg_curved_light_grey.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\drawable\\bg_curved_light_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\drawable_play.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\drawable\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "example.com.finalyearproject.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "example.com.finalyearproject.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\drawable_bg_curved_color_primary.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\drawable\\bg_curved_color_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\drawable_checked.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\drawable\\checked.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\layout_issue_row.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\layout\\issue_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\layout_activity_camera.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\drawable_bg_curved_color_green.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\drawable\\bg_curved_color_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\drawable_wrench.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\drawable\\wrench.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-merged_res-31:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\7.4\\example.com.finalyearproject.app-main-33:\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
